@@ -1,2 +1,18 @@
-Hola, Debes descargar las cookies de la secion de 
-youtube en tu navegador en un archivo llamado cookies.txt
+# Down
+
+## Requisitos previos
+Antes de usar este proyecto, necesitas exportar las cookies de tu sesión de YouTube desde tu navegador.
+
+## Pasos para obtener las cookies
+1. Instala la extensión **Get cookies.txt** en tu navegador (disponible para Chrome, Edge y Firefox).
+2. Inicia sesión en YouTube en tu navegador.
+3. Abre la extensión y exporta las cookies de la sesión.
+4. Guarda el archivo exportado con el nombre **cookies.txt** en la carpeta principal del proyecto.
+
+## Notas importantes
+- El archivo `cookies.txt` es necesario para que las descargas funcionen correctamente.
+- Asegúrate de mantener tus cookies seguras y no compartirlas públicamente.
+- Si las cookies expiran, repite el proceso para generar un nuevo archivo.
+
+## Uso
+Una vez tengas el archivo `cookies.txt` en la carpeta del proyecto, podrás ejecutar los scripts de descarga sin problemas.
